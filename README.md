@@ -1,4 +1,4 @@
-# Case Study in the Use of DBMS_CLOUD (and Other Core Database Features) to Automate Loading Data into Autonomous Database (ADB)
+# Use DBMS_CLOUD to Automate Loading Data into Autonomous Database (ADB)
 
 Derrick Cameron
 July, 2021
