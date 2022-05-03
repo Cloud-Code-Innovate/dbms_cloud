@@ -1,4 +1,9 @@
 {
+    "workshoptitle": "Load data in ADB Using DBMS_CLOUD",
+    "help": "",
+    "include": {
+        "import": "../../common/import_notebook.md"
+    },
     "tutorials": [
         {         
             "title": "Load data in ADB Using DBMS_CLOUD",
