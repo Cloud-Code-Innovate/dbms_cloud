@@ -1,11 +1,9 @@
 {
     "tutorials": [
         {         
-            "title": "Case Study in the Use of DBMS_CLOUD (and Other Core Database Features) to Automate Loading Data into Autonomous Database (ADB)",
-            "description": "",
-            "partnumber": "Ennnnn_01",
+            "title": "Load data in ADB Using DBMS_CLOUD",
+            "description": "Case Study in the Use of DBMS_CLOUD (and Other Core Database Features) to Automate Loading Data into Autonomous Database (ADB)",
             "publisheddate": "7/12/2021",
-            "contentid": "12nnnn",
             "filename": "README.md"
         }
 
